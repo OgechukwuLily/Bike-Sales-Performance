@@ -15,6 +15,7 @@
 
 This data analysis aims to understand the trend of the product purchase, what influences the buyers, how improve on their occupation and distances covered to and fro work determines the demand of bikes.
 
+![Bike sales dashboard 2](https://github.com/OgechukwuLily/Bike-Sales-Performance/assets/160866623/f1b59deb-4139-415a-8ac0-b006e6345021)
 
 ### Data Sources
 
