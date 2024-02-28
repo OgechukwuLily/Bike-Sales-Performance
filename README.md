@@ -13,9 +13,10 @@
 ## Project Overview
 ---
 
-This data analysis aims to understand the trend of the product purchase, what influences the buyers, how improve on their occupation and distances covered to and fro work determines the demand of bikes.
+This data analysis aims to understand the trend of the product purchase, what influences the buyers, how improve on their occupation and distances covered to and fro work determines the demand of bikes. By analyzing various aspects of the sales data, we seek to identify trends, make data deiven recommendations, and gain a deeper understanding on bike sales.
 
 ![Bike sales dashboard 2](https://github.com/OgechukwuLily/Bike-Sales-Performance/assets/160866623/f1b59deb-4139-415a-8ac0-b006e6345021)
+
 
 ### Data Sources
 
